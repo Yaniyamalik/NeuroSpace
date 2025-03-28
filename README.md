@@ -40,7 +40,7 @@ NeuroSpace is an inclusive platform designed to support neurodiverse individuals
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Token)
 - **Real-time Chat:** WebSockets (Socket.io)
-- **Hosting:** Vercel (Frontend)
+- **Hosting:** Vercel (Frontend),Render(backend)
 
 ## Installation
 
