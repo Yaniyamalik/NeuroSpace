@@ -12,7 +12,7 @@ import { Anger } from './pages/toolkit/Anger'
 import { ShopList } from './pages/toolkit/ShopList'
 import { Home } from './pages/Home'
 import { Navbar } from './navbar/Navbar'
-import Footer from './pages/fotter'
+import Footer from './pages/Fotter'
 import Jobs from './pages/Jobs/Jobs';
 import Courses from './pages/Courses/Courses';
 function App() {
