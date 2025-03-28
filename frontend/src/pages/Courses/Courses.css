@@ -1,0 +1,119 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  /* Main Container */
+  .courses-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Upper Section */
+  .upper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #007bff;
+    color: white;
+    padding: 40px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .text1, .text2 {
+    font-size: 18px;
+    max-width: 700px;
+    margin-bottom: 20px;
+  }
+  
+  .pic {
+    width: 100%;
+    height: 200px;
+    background-image: url("/images/learning-banner.jpg"); /* Replace with actual image */
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Middle Section */
+  .middle {
+    background-color: #ffcc00;
+    color: black;
+    padding: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Lower Section - Course Listings */
+  .lower {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  /* Course Box */
+  .box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .box:hover {
+    transform: translateY(-5px);
+  }
+  
+  .box img {
+    width: 100%;
+    height: 180px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  
+  .box a {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    color: #007bff;
+    text-decoration: none;
+    margin-top: 10px;
+  }
+  
+  .box a:hover {
+    color: #0056b3;
+  }
+  
+  .box p {
+    font-size: 14px;
+    color: #333;
+    margin-top: 10px;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .upper {
+      padding: 20px;
+    }
+  
+    .lower {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .box {
+      width: 80%;
+    }
+  }
+  
