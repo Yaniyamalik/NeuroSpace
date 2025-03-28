@@ -6,7 +6,7 @@ import image2 from "./2.png"
 import image1 from "./support.jpg"
 import "./Support.css"
 
-const socket = io("http://localhost:8000");
+const socket = io("https://neurospace-backend-new.onrender.com");
 
 export const Support = () => {
   const location = useLocation();

@@ -5,7 +5,7 @@ import image1 from "./com-chat.jpg"
 import image2 from "./3.png"
 import "./Communitychat.css"
 import {nanoid} from "nanoid";
-const socket = io("http://localhost:8000");
+const socket = io("https://neurospace-backend-new.onrender.com");
 function Communitychat() {
   const [message,setMessage]=useState("")
   const[chat,setChat]=useState([])
