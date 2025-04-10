@@ -71,9 +71,4 @@ NeuroSpace is an inclusive platform designed to support neurodiverse individuals
 ## Contributing
 We welcome contributions from developers, designers, and neurodiversity advocates. Feel free to submit pull requests and open issues.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For queries and support, reach out via [your email/contact info].
 
