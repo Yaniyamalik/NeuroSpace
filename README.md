@@ -11,13 +11,9 @@ NeuroSpace is an inclusive platform designed to support neurodiverse individuals
 
 ### 2. **Courses Section**
 - Curated courses from various platforms to support neurodiverse learning styles
-- Categorized courses for easy navigation
-- User progress tracking
 
 ### 3. **Job Listings**
 - Job opportunities tailored for neurodiverse individuals
-- Filters for remote, hybrid, and on-site jobs
-- Application tracking and resume assistance
 
 ### 4. **Chatbox**
 - Real-time chat support for users
@@ -26,13 +22,10 @@ NeuroSpace is an inclusive platform designed to support neurodiverse individuals
 
 ### 5. **Toolkit**
 - Accessibility tools to enhance user experience
-- Speech-to-text and text-to-speech features
 - Productivity and emotional planning tools
 
 ### 6. **Shop**
 - Specialized products for neurodiverse needs
-- Books, sensory tools, and assistive devices
-- User reviews and recommendations
 
 ## Tech Stack
 - **Frontend:** React.js, CSS
